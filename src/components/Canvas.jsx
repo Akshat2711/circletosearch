@@ -4,7 +4,7 @@ import { Camera, Info, Check, X, RefreshCw, Smartphone } from "lucide-react";
 const Canvas = () => {
   // IMPORTANT: Replace with your Gemini API key
   // Get your key from https://ai.google.dev/tutorials/setup
-  const GEMINI_API_KEY = "AIzaSyAbJZh6dYDd5D2oQhGPKeEiNwgIUVCv2u0"; 
+  const GEMINI_API_KEY = ""; 
 
   const canvasRef = useRef(null);
   const videoRef = useRef(null);
